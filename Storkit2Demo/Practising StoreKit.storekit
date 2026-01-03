@@ -1,0 +1,107 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "B50E9CD2",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6757300059",
+    "_askToBuyEnabled" : false,
+    "_billingGracePeriodEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_developerTeamID" : "4LR68777XL",
+    "_disableDialogs" : false,
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 789040089.80450904,
+    "_locale" : "en_US",
+    "_renewalBillingIssuesEnabled" : false,
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+
+    ],
+    "_timeRate" : 0
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21876071",
+      "localizations" : [
+
+      ],
+      "name" : "Subs",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "5.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6757300446",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Best yearly price",
+              "displayName" : "Annual Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.terjemoe.annulaSub",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "com.terjemoe.annulaSub",
+          "subscriptionGroupID" : "21876071",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6757300701",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Best monthly price",
+              "displayName" : "Monthly Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.terjemoe.monthlySub",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "com.terjemoe.monthlySub",
+          "subscriptionGroupID" : "21876071",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
