@@ -1,7 +1,7 @@
 //
 //  Storkit2DemoApp.swift
 //  Storkit2Demo
-//
+//   
 //  Created by Terje Moe on 02/01/2026.
 //
 
